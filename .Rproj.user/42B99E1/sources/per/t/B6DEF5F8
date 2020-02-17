@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581397413107.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6DEF5F8",
+    "lastKnownWriteTime" : 4122539881077407744,
+    "last_content_update" : 1581397413107,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6BAF7C7A",
+        "caption" : "idf",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=idf&cache_key=6BAF7C7A",
+        "displayedObservations" : "9839",
+        "environment" : "",
+        "expression" : "idf",
+        "object" : "idf",
+        "preview" : "0",
+        "totalObservations" : "9839",
+        "variables" : "59"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

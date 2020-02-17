@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CS-5364 Information Retrieval</title>
+</head>
+<body>
+
+<h3 style="text-transform: uppercase;">CS-5364 Information Retrieval</h3>
+<p>Instructor: <i>Dr. Fang Jin</i></p>
+
+<h3><u>Members</u></h3>
+<p><a href="https://litpuvn.github.io/myweb"><b>Long Nguyen</b></a>, PhD. Student, Data Discovery Lab</p>
+<p><a href="https://github.com/liang112233"><b>Sisheng Liang</b></a>, PhD. Student, Data Discovery Lab</p>
+
+<h3><u>Dataset</u></h3>
+<p>Tweets from Aug 26, 2017 to Aug 30, 2017 (while Hurricane Harvey was occurring) </p>
+
+<h3><u>Project github</u></h3>
+<a href="https://github.com/litpuvn/cs-5364-ir">click here</a>
+
+
+<h3><u>Project 1</u></h3>
+<h4><b>Query</b>: <b style="color: darkred">love food hurricane harvey texas houston flood road drink water bottle</b> </h4>
+
+<table>
+    <caption>Word cloud visualization of <b>entire dataset</b> and the <b>relevant dataset</b> (relevant to the query)</caption>
+    <tr>
+        <td><img src="data/images/word_cloud_entire_tweets.png" width="400" height="300" border="1" /></td>
+        <td><img src="data/images/word_cloud_relevant_tweets.png" width="400" height="300" border="1"/> </td>
+    </tr>
+</table>
+
+<table>
+    <caption>Top 20 terms and frequencies</caption>
+    <tr>
+        <td><img src="data/images/collection_term_frequency.png" width="800" height="600" border="1" /></td>
+    </tr>
+</table>
+
+<table>
+    <caption>Inverse Document Frequencies (IDF)</caption>
+    <tr>
+        <td><img src="data/images/IDF.jpg" width="800" height="600" border="1" /></td>
+    </tr>
+</table>
+
+<table>
+    <caption><b>TF-IDF</b> heatmap for documents with total score >= 0.5</caption>
+    <tr>
+        <td><img src="data/images/tf_idf_heatmap.png" width="800" height="600" border="1" /></td>
+    </tr>
+</table>
+
+<table>
+    <caption><b>Term-Document</b> heatmap for documents with total score >= 4</caption>
+    <tr>
+        <td><img src="data/images/term_document_heatmap.png" width="800" height="600" border="1" /></td>
+    </tr>
+</table>
+<table>
+    <caption><b>Vector Space</b> heatmap for documents with total</caption>
+    <tr>
+        <td><img src="data/images/vector_space.png" width="800" height="600" border="1" /></td>
+    </tr>
+</table>
+<div>
+    <p>@hctra east sam <b>houston</b> tollway: northbound servic <b>road</b> spencer block high <b>water</b> <b>#harvey</b> https://t.co/pde4gj7b60</p>
+    <p>flash <b>flood</b> emerg effect part western <b>houston</b>. <b>water</b> rescu progress... <b>#harvey</b> https://t.co/ilqcavcbyn</p>
+    <p><b>harvey</b> get hell <b>texas</b>!! bad lightn <b>houston</b> <b>water</b>. caus enough chaos! https://t.co/0xzfwrltml</p>
+    <p>#break south freeway holli hall <b>road houston flood harvey</b> rains. listen local leaders. stay <b>roads</b>. #abc13</p>
+</div>
+
+<table>
+    <caption><b>Pair Document Similairity</b> heatmap for a random selection of 20 documents</caption>
+    <tr>
+        <td><img src="data/images/document_similarity.png" width="800" height="600" border="1" /></td>
+    </tr>
+</table>
+</body>
+</html>

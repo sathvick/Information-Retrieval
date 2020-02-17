@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581394588835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1119631674",
+    "id" : "959646AE",
+    "lastKnownWriteTime" : 1581399552,
+    "last_content_update" : 1581399552708,
+    "path" : "~/Desktop/IR/ir.R",
+    "project_path" : "ir.R",
+    "properties" : {
+        "cursorPosition" : "56,8",
+        "scrollLine" : "43"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

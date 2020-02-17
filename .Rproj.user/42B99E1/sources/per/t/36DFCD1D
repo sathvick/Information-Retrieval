@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581398610223.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "36DFCD1D",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1581398610223,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D285CD10",
+        "caption" : "tf.idf",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tf.idf&cache_key=D285CD10",
+        "displayedObservations" : 11,
+        "environment" : "",
+        "expression" : "tf.idf",
+        "object" : "tf.idf",
+        "preview" : 0,
+        "totalObservations" : 11,
+        "variables" : 59
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
